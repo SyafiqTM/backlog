@@ -1,6 +1,6 @@
 -- Create database
-CREATE DATABASE IF NOT EXISTS blogger;
-USE blogger;
+CREATE DATABASE IF NOT EXISTS railway;
+USE railway;
 
 -- Create blogs table
 CREATE TABLE IF NOT EXISTS blogs (
