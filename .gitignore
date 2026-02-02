@@ -1,0 +1,62 @@
+# Logs
+*.log
+*.logs
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Java
+*.class
+*.jar
+target/
+
+# C#
+bin/
+obj/
+*.dll
+
+# Ruby
+Gemfile.lock
+.bundle/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Testing
+.pytest_cache/
